@@ -1,0 +1,118 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+body {
+  background-color: #f4f5f7;
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+}
+
+.intro {
+  text-align: center;
+  background: url(../img/landing-page.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  color: white;
+}
+.title{
+  font-size: 20px;
+}
+.center-landing{
+  width:800px;
+  height:300px;
+  margin:auto;
+  position:absolute;
+  top:0;bottom:0;
+  left:0;right:0;
+  max-width:100%;
+  max-height:100%;
+  overflow:auto;
+}
+#read-more-button{
+  background-color: inherit;
+  border:2px solid #B7B6C1;
+  margin-top: 80vh;
+  padding: 1.2em;
+}
+#read-more-button:hover{
+  border-color: white;
+  transition: all 0.5s ease 0s;
+}
+.navbar a, button{
+  color: white !important;
+}
+.navbar-custom{
+  background-color: #002408;
+  transition: all 0.4s ease-in-out;
+  padding: 0px !important;
+}
+.navbar-fixed-top{
+  transition: all 0.4s ease-in-out;
+  padding: 20px;
+}
+@media (max-width: 768px) {
+  .navbar-fixed-top{
+    background-color: #002408;
+    transition: all 0.4s ease-in-out;
+    padding: 0px !important;
+  }
+  .project-image{
+    height: auto;
+  }
+}
+button:focus {outline:0;}
+ul.nav a:hover {
+  color: #002408 !important;
+  transition: all 0.4s ease-in-out;
+}
+.about-text{
+  margin-top: 10vh;
+}
+.grey-bg{
+  padding: 2px;
+  font-size: 1.5em;
+}
+.no-margin{
+  margin: 0px !important;
+}
+.icon{
+  color: #002408;
+  border: 2px solid #002408;
+  padding: 0.5em;
+  border-radius: 50%;
+  margin-bottom: black;
+  font-size:
+}
+.navbar-brand{
+  font-family: 'Slabo 27px';
+  letter-spacing: 3px;
+}
+.under-title{
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 2px solid grey;
+  font-size: 20px;
+}
+p{
+  font-size: 16px;
+}
+.project-image{/*1150x650*/
+  max-width: 350px;
+}
+.description{
+  color:grey;
+  padding-bottom: 20px;
+}
+.portfolio-text{
+  padding-top: 5vh;
+  padding-bottom: 30px;
+}
+#about{
+  padding-bottom: 10vh;
+}
+#projects{
+  background-color: white;
+  padding-bottom: 10vh;
+}
