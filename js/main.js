@@ -20,7 +20,7 @@ app.controller('projectController',function($scope){
     {
       'name':'Personal projects',
       'description':'Under development.',
-      'img':'img/portfolio/coming-soon.jpg',
+      'img':'img/portfolio/personal-project.jpg',
       'link':''
     },
     {
