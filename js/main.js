@@ -21,19 +21,61 @@ app.controller('projectController',function($scope){
       'name':'Personal projects',
       'description':'Under development.',
       'img':'img/portfolio/personal-project.jpg',
-      'link':''
+      'link':'https://github.com/raulGX'
     },
     {
-      'name':'FreeCodeCamp - Front-End',
-      'description':'Used jQuery, AngularJS, Twitter Bootstrap and multiple APIs.',
-      'img':'img/portfolio/f-end-projects.jpg',
-      'link':'https://codepen.io/raulGX/pens/public/'
+      'name':"Simon's Game",
+      'description':'Used AngularJS, jQuery and Bootstrap.',
+      'img':'img/portfolio/fend-simongame.jpg',
+      'link':'https://codepen.io/raulGX/pen/VjyGmg'
+    },
+    {
+      'name':'Web Pocket Calculator',
+      'description':'Used jQuery and Bootstrap.',
+      'img':'img/portfolio/fend-calculator.jpg',
+      'link':'https://codepen.io/raulGX/pen/grGZPE'
+    },
+    {
+      'name':'Pomodoro Clock',
+      'description':'Used jQuery and Bootstrap.',
+      'img':'img/portfolio/fend-pomclock.jpg',
+      'link':'https://codepen.io/raulGX/pen/JKApPG'
+    },
+    {
+      'name':'Random Quote Generator',
+      'description':'Used jQuery, Quote Generator API and Bootstrap.',
+      'img':'img/portfolio/fend-randoquote.jpg',
+      'link':'https://codepen.io/raulGX/pen/VjWPNZ'
+    },
+    {
+      'name':'Twitch.tv Channel Viewer',
+      'description':'Used jQuery, Twitch.tv API and Bootstrap.',
+      'img':'img/portfolio/fend-twitchapi.jpg',
+      'link':'https://codepen.io/raulGX/pen/kXwRNz'
+    },
+    {
+      'name':'Weather Viewer',
+      'description':'Used jQuery, Weather API and Bootstrap.',
+      'img':'img/portfolio/fend-weather.jpg',
+      'link':'https://codepen.io/raulGX/pen/xOAdGA'
+    },
+    {
+      'name':'Wikipedia Viewer',
+      'description':'Used jQuery, Wikipedia API and Bootstrap.',
+      'img':'img/portfolio/fend-wikiviewer.jpg',
+      'link':'https://codepen.io/raulGX/pen/WxOJNz'
+    },
+    {
+      'name':'Unbeatable Tic-Tac-Toe',
+      'description':'Used jQuery and Bootstrap.',
+      'img':'img/portfolio/fend-xohs.jpg',
+      'link':'https://codepen.io/raulGX/pen/vKWyVp'
     },
     {
       'name':'FreeCodeCamp - Back-End',
       'description':'Under development.',
       'img':'img/portfolio/coming-soon.jpg',
-      'link':''
+      'link':'https://github.com/raulGX'
     }
   ];
 }).directive('smoothScroll', [
