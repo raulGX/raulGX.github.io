@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 body {
-  background-color: #f4f5f7;
+  background-color: #002408;
   font-family: 'Montserrat', sans-serif;
   color:black;
 }
@@ -98,7 +98,7 @@ ul.nav a:hover {
 p{
   font-size: 16px;
 }
-.project-image{/*1150x650*/
+.project-image{/*16x9*/
   max-width: 350px;
 }
 .description{
@@ -110,9 +110,35 @@ p{
   padding-bottom: 30px;
 }
 #about{
+  background-color: #f4f5f7;
   padding-bottom: 10vh;
 }
 #projects{
   background-color: white;
   padding-bottom: 10vh;
+}
+#contact{
+  background-color: #002408;
+  padding-bottom: 3vh;
+}
+h3{
+  color:white;
+  font-size: 16px;
+}
+footer{
+  height: 0px;
+}
+.small-text{
+  font-size: 13px;
+  color: #707070;
+}
+.small-text span{
+  color: #24696B;
+}
+.social{
+  padding-top: 10px;
+  font-size: 30px;
+}
+.social a{
+  color: white;
 }
