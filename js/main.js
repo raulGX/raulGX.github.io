@@ -27,49 +27,49 @@ app.controller('projectController',function($scope){
       'name':"Simon's Game",
       'description':'Used AngularJS, jQuery and Bootstrap.',
       'img':'img/portfolio/fend-simongame.jpg',
-      'link':'https://codepen.io/raulGX/pen/VjyGmg'
+      'link':'https://codepen.io/raulGX/full/VjyGmg'
     },
     {
       'name':'Web Pocket Calculator',
       'description':'Used jQuery and Bootstrap.',
       'img':'img/portfolio/fend-calculator.jpg',
-      'link':'https://codepen.io/raulGX/pen/grGZPE'
+      'link':'https://codepen.io/raulGX/full/grGZPE'
     },
     {
       'name':'Pomodoro Clock',
       'description':'Used jQuery and Bootstrap.',
       'img':'img/portfolio/fend-pomclock.jpg',
-      'link':'https://codepen.io/raulGX/pen/JKApPG'
+      'link':'https://codepen.io/raulGX/full/JKApPG'
     },
     {
       'name':'Random Quote Generator',
       'description':'Used jQuery, Quote Generator API and Bootstrap.',
       'img':'img/portfolio/fend-randoquote.jpg',
-      'link':'https://codepen.io/raulGX/pen/VjWPNZ'
+      'link':'https://codepen.io/raulGX/full/VjWPNZ'
     },
     {
       'name':'Twitch.tv Channel Viewer',
       'description':'Used jQuery, Twitch.tv API and Bootstrap.',
       'img':'img/portfolio/fend-twitchapi.jpg',
-      'link':'https://codepen.io/raulGX/pen/kXwRNz'
+      'link':'https://codepen.io/raulGX/full/kXwRNz'
     },
     {
       'name':'Weather Viewer',
       'description':'Used jQuery, Weather API and Bootstrap.',
       'img':'img/portfolio/fend-weather.jpg',
-      'link':'https://codepen.io/raulGX/pen/xOAdGA'
+      'link':'https://codepen.io/raulGX/full/xOAdGA'
     },
     {
       'name':'Wikipedia Viewer',
       'description':'Used jQuery, Wikipedia API and Bootstrap.',
       'img':'img/portfolio/fend-wikiviewer.jpg',
-      'link':'https://codepen.io/raulGX/pen/WxOJNz'
+      'link':'https://codepen.io/raulGX/full/WxOJNz'
     },
     {
       'name':'Unbeatable Tic-Tac-Toe',
       'description':'Used jQuery and Bootstrap.',
       'img':'img/portfolio/fend-xohs.jpg',
-      'link':'https://codepen.io/raulGX/pen/vKWyVp'
+      'link':'https://codepen.io/raulGX/full/vKWyVp'
     },
     {
       'name':'FreeCodeCamp - Back-End',
