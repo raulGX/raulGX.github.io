@@ -66,7 +66,7 @@ app.controller('projectController',function($scope){
       'link':'https://codepen.io/raulGX/full/WxOJNz'
     },
     {
-      'name':'Unbeatable Tic-Tac-Toe',
+      'name':'Tic-Tac-Toe',
       'description':'Used jQuery and Bootstrap.',
       'img':'img/portfolio/fend-xohs.jpg',
       'link':'https://codepen.io/raulGX/full/vKWyVp'
