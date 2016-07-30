@@ -72,7 +72,7 @@ app.controller('projectController',function($scope){
       'link':'https://codepen.io/raulGX/full/vKWyVp'
     },
     {
-      'name':'FreeCodeCamp - Back-End',
+      'name':'Back-End Projects',
       'description':'Under development.',
       'img':'img/portfolio/coming-soon.jpg',
       'link':'https://github.com/raulGX'
