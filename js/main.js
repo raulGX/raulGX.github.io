@@ -18,10 +18,10 @@ var app = angular.module('app',[]);
 app.controller('projectController',function($scope){
   $scope.projects=[
     {
-      'name':'Personal projects',
-      'description':'Under development.',
+      'name':'Personal project',
+      'description':'SPA using Angular and NodeJs deployed on heroku',
       'img':'img/portfolio/personal-project.jpg',
-      'link':'https://github.com/raulGX'
+      'link':'https://secure-spire-50569.herokuapp.com/'
     },
     {
       'name':"Simon's Game",
@@ -70,12 +70,6 @@ app.controller('projectController',function($scope){
       'description':'Used jQuery and Bootstrap.',
       'img':'img/portfolio/fend-xohs.jpg',
       'link':'https://codepen.io/raulGX/full/vKWyVp'
-    },
-    {
-      'name':'Back-End Projects',
-      'description':'Under development.',
-      'img':'img/portfolio/coming-soon.jpg',
-      'link':'https://github.com/raulGX'
     }
   ];
 }).directive('smoothScroll', [
